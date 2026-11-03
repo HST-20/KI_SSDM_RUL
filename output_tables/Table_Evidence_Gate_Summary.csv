@@ -1,0 +1,8 @@
+Category,Criteria,Passed,Failed
+Required,3,3,0
+Predictive,60,40,20
+Bias,12,12,0
+Uncertainty,13,12,1
+Estimation,1,0,1
+Numerical,3,0,3
+Inference,6,5,1

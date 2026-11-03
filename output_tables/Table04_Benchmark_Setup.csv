@@ -1,0 +1,7 @@
+Scenario,Fleets,TotalUnits,TestUnitsInPredictions
+fatigue_matched,5,370,80
+fatigue_discrepancy,5,370,80
+fatigue_emission_mismatch,5,370,80
+fatigue_combined_mismatch,5,370,80
+fatigue_weak_gap,5,370,80
+fatigue_load_exponent,5,370,80

@@ -1,0 +1,841 @@
+Duty,Strategy,Fleet,ExpectedCost_cwFleet
+planned,Corrective (run-to-failure),1,9
+planned,Corrective (run-to-failure),2,9
+planned,Corrective (run-to-failure),3,9
+planned,Corrective (run-to-failure),4,9
+planned,Corrective (run-to-failure),5,9
+planned,Corrective (run-to-failure),6,9
+planned,Corrective (run-to-failure),7,9
+planned,Corrective (run-to-failure),8,9
+planned,Corrective (run-to-failure),9,9
+planned,Corrective (run-to-failure),10,9
+planned,Corrective (run-to-failure),11,9
+planned,Corrective (run-to-failure),12,9
+planned,Corrective (run-to-failure),13,9
+planned,Corrective (run-to-failure),14,9
+planned,Corrective (run-to-failure),15,9
+planned,Corrective (run-to-failure),16,9
+planned,Corrective (run-to-failure),17,9
+planned,Corrective (run-to-failure),18,9
+planned,Corrective (run-to-failure),19,9
+planned,Corrective (run-to-failure),20,9
+planned,Corrective (run-to-failure),21,9
+planned,Corrective (run-to-failure),22,9
+planned,Corrective (run-to-failure),23,9
+planned,Corrective (run-to-failure),24,9
+planned,Corrective (run-to-failure),25,9
+planned,Corrective (run-to-failure),26,9
+planned,Corrective (run-to-failure),27,9
+planned,Corrective (run-to-failure),28,9
+planned,Corrective (run-to-failure),29,9
+planned,Corrective (run-to-failure),30,9
+planned,Periodic (CAL-fleet L10 age),1,1.62308783174689
+planned,Periodic (CAL-fleet L10 age),2,1.57112259877526
+planned,Periodic (CAL-fleet L10 age),3,1.62308783174689
+planned,Periodic (CAL-fleet L10 age),4,1.57112259877526
+planned,Periodic (CAL-fleet L10 age),5,1.57112259877526
+planned,Periodic (CAL-fleet L10 age),6,2.03978359869708
+planned,Periodic (CAL-fleet L10 age),7,2.54539652234229
+planned,Periodic (CAL-fleet L10 age),8,2.45340929388818
+planned,Periodic (CAL-fleet L10 age),9,2.54539652234229
+planned,Periodic (CAL-fleet L10 age),10,2.45340929388818
+planned,Periodic (CAL-fleet L10 age),11,2.45340929388818
+planned,Periodic (CAL-fleet L10 age),12,2.42695169840622
+planned,Periodic (CAL-fleet L10 age),13,4.00308903678604
+planned,Periodic (CAL-fleet L10 age),14,2.62867728917886
+planned,Periodic (CAL-fleet L10 age),15,4.00308903678604
+planned,Periodic (CAL-fleet L10 age),16,2.62867728917886
+planned,Periodic (CAL-fleet L10 age),17,2.62867728917886
+planned,Periodic (CAL-fleet L10 age),18,3.49752682829902
+planned,Periodic (CAL-fleet L10 age),19,1.73164705596765
+planned,Periodic (CAL-fleet L10 age),20,2.01884706777434
+planned,Periodic (CAL-fleet L10 age),21,1.73164705596765
+planned,Periodic (CAL-fleet L10 age),22,2.01884706777434
+planned,Periodic (CAL-fleet L10 age),23,2.01884706777434
+planned,Periodic (CAL-fleet L10 age),24,2.14287421593309
+planned,Periodic (CAL-fleet L10 age),25,2.40221370502525
+planned,Periodic (CAL-fleet L10 age),26,1.6799838268365
+planned,Periodic (CAL-fleet L10 age),27,2.40221370502525
+planned,Periodic (CAL-fleet L10 age),28,1.6799838268365
+planned,Periodic (CAL-fleet L10 age),29,1.6799838268365
+planned,Periodic (CAL-fleet L10 age),30,1.6700389387302
+planned,PI_DSSDM point,1,2.9297122346979
+planned,PI_DSSDM point,2,4.26870138376576
+planned,PI_DSSDM point,3,2.92918192192309
+planned,PI_DSSDM point,4,4.26861443713454
+planned,PI_DSSDM point,5,4.02585708906054
+planned,PI_DSSDM point,6,3.99364473555938
+planned,PI_DSSDM point,7,4.69535375467981
+planned,PI_DSSDM point,8,5.58259146205809
+planned,PI_DSSDM point,9,4.5675579329384
+planned,PI_DSSDM point,10,5.58213492987045
+planned,PI_DSSDM point,11,5.74078899084144
+planned,PI_DSSDM point,12,5.01946091511002
+planned,PI_DSSDM point,13,5.15486211792658
+planned,PI_DSSDM point,14,5.66986316448616
+planned,PI_DSSDM point,15,5.15531589899561
+planned,PI_DSSDM point,16,5.37920846570599
+planned,PI_DSSDM point,17,5.84138160155212
+planned,PI_DSSDM point,18,5.23606109663682
+planned,PI_DSSDM point,19,3.47685244480849
+planned,PI_DSSDM point,20,3.55538499887571
+planned,PI_DSSDM point,21,3.34855083935659
+planned,PI_DSSDM point,22,3.15527658407956
+planned,PI_DSSDM point,23,3.86639557123405
+planned,PI_DSSDM point,24,4.1717766525805
+planned,PI_DSSDM point,25,5.34892177782095
+planned,PI_DSSDM point,26,5.50384128507985
+planned,PI_DSSDM point,27,5.47971253125692
+planned,PI_DSSDM point,28,5.22381566800583
+planned,PI_DSSDM point,29,6.36415055303296
+planned,PI_DSSDM point,30,5.36969172312011
+planned,PI_DSSDM conformal lower,1,1.34413772682734
+planned,PI_DSSDM conformal lower,2,1.33875838279735
+planned,PI_DSSDM conformal lower,3,1.34255009085604
+planned,PI_DSSDM conformal lower,4,1.33753142043919
+planned,PI_DSSDM conformal lower,5,1.22525769442447
+planned,PI_DSSDM conformal lower,6,1.36092938213611
+planned,PI_DSSDM conformal lower,7,1.33551188878522
+planned,PI_DSSDM conformal lower,8,1.33302345158646
+planned,PI_DSSDM conformal lower,9,1.3335643705707
+planned,PI_DSSDM conformal lower,10,1.47486702232207
+planned,PI_DSSDM conformal lower,11,1.43027488068803
+planned,PI_DSSDM conformal lower,12,1.74491251488129
+planned,PI_DSSDM conformal lower,13,1.58926814618886
+planned,PI_DSSDM conformal lower,14,1.63840661067298
+planned,PI_DSSDM conformal lower,15,1.46010963115225
+planned,PI_DSSDM conformal lower,16,1.63763044895396
+planned,PI_DSSDM conformal lower,17,1.44621778256229
+planned,PI_DSSDM conformal lower,18,1.63820266557082
+planned,PI_DSSDM conformal lower,19,1.23333106432536
+planned,PI_DSSDM conformal lower,20,1.22269869237013
+planned,PI_DSSDM conformal lower,21,1.23424228991465
+planned,PI_DSSDM conformal lower,22,1.22223766851012
+planned,PI_DSSDM conformal lower,23,1.4627347605122
+planned,PI_DSSDM conformal lower,24,1.22914859755627
+planned,PI_DSSDM conformal lower,25,1.47549528319968
+planned,PI_DSSDM conformal lower,26,1.48470964239003
+planned,PI_DSSDM conformal lower,27,1.47527121372493
+planned,PI_DSSDM conformal lower,28,1.34569335185284
+planned,PI_DSSDM conformal lower,29,1.45240401036769
+planned,PI_DSSDM conformal lower,30,1.36358460550821
+planned,Inverse_PINN point,1,3.4372993243747
+planned,Inverse_PINN point,2,2.91748931883872
+planned,Inverse_PINN point,3,2.80424859822112
+planned,Inverse_PINN point,4,3.32526186769217
+planned,Inverse_PINN point,5,3.08602813252518
+planned,Inverse_PINN point,6,3.99341535395223
+planned,Inverse_PINN point,7,5.33481699111708
+planned,Inverse_PINN point,8,5.44144259321349
+planned,Inverse_PINN point,9,5.20948230525268
+planned,Inverse_PINN point,10,5.58621595822339
+planned,Inverse_PINN point,11,6.02266126672319
+planned,Inverse_PINN point,12,4.60828892436169
+planned,Inverse_PINN point,13,5.15236953844489
+planned,Inverse_PINN point,14,5.37867447403648
+planned,Inverse_PINN point,15,5.40994584772693
+planned,Inverse_PINN point,16,5.66965083013827
+planned,Inverse_PINN point,17,5.4075502855273
+planned,Inverse_PINN point,18,5.96232176645543
+planned,Inverse_PINN point,19,4.25082230110942
+planned,Inverse_PINN point,20,4.21922843779807
+planned,Inverse_PINN point,21,3.73722371728967
+planned,Inverse_PINN point,22,4.62083214503065
+planned,Inverse_PINN point,23,3.99783196855012
+planned,Inverse_PINN point,24,5.08866373148227
+planned,Inverse_PINN point,25,4.95831754180774
+planned,Inverse_PINN point,26,5.22359012383407
+planned,Inverse_PINN point,27,4.69748533585917
+planned,Inverse_PINN point,28,4.66754962437518
+planned,Inverse_PINN point,29,6.6416627268607
+planned,Inverse_PINN point,30,5.93418377344422
+planned,Inverse_PINN conformal lower,1,1.3418180632594
+planned,Inverse_PINN conformal lower,2,1.47709497986894
+planned,Inverse_PINN conformal lower,3,1.34822739112655
+planned,Inverse_PINN conformal lower,4,1.6101469173687
+planned,Inverse_PINN conformal lower,5,1.20586495675255
+planned,Inverse_PINN conformal lower,6,1.22567681477196
+planned,Inverse_PINN conformal lower,7,1.43743358922593
+planned,Inverse_PINN conformal lower,8,1.48181259379202
+planned,Inverse_PINN conformal lower,9,1.81671093126923
+planned,Inverse_PINN conformal lower,10,1.7649090762443
+planned,Inverse_PINN conformal lower,11,1.55508258343873
+planned,Inverse_PINN conformal lower,12,1.74997664745366
+planned,Inverse_PINN conformal lower,13,1.59120861764835
+planned,Inverse_PINN conformal lower,14,1.63875271172124
+planned,Inverse_PINN conformal lower,15,1.59594601895025
+planned,Inverse_PINN conformal lower,16,1.92444529105165
+planned,Inverse_PINN conformal lower,17,1.58093293726813
+planned,Inverse_PINN conformal lower,18,1.50471886087811
+planned,Inverse_PINN conformal lower,19,1.23415192393447
+planned,Inverse_PINN conformal lower,20,1.35385781614142
+planned,Inverse_PINN conformal lower,21,1.24033202010661
+planned,Inverse_PINN conformal lower,22,1.22197291319332
+planned,Inverse_PINN conformal lower,23,1.45288099131308
+planned,Inverse_PINN conformal lower,24,1.36695177768062
+planned,Inverse_PINN conformal lower,25,1.48173578397264
+planned,Inverse_PINN conformal lower,26,1.49083728737675
+planned,Inverse_PINN conformal lower,27,1.48233304715475
+planned,Inverse_PINN conformal lower,28,1.36643047152901
+planned,Inverse_PINN conformal lower,29,1.33025873935676
+planned,Inverse_PINN conformal lower,30,1.51033396670007
+planned,Bayesian_PF point,1,3.05670261294344
+planned,Bayesian_PF point,2,4.13303712761344
+planned,Bayesian_PF point,3,2.80495057195285
+planned,Bayesian_PF point,4,4.40429518854626
+planned,Bayesian_PF point,5,2.94992027507734
+planned,Bayesian_PF point,6,4.52949561891052
+planned,Bayesian_PF point,7,5.45680491646355
+planned,Bayesian_PF point,8,5.86657008902379
+planned,Bayesian_PF point,9,4.82192649043915
+planned,Bayesian_PF point,10,5.86669679369444
+planned,Bayesian_PF point,11,6.16362128362148
+planned,Bayesian_PF point,12,5.16813681231043
+planned,Bayesian_PF point,13,5.15472930588334
+planned,Bayesian_PF point,14,5.95904981437034
+planned,Bayesian_PF point,15,5.15512351829627
+planned,Bayesian_PF point,16,6.25018263866932
+planned,Bayesian_PF point,17,5.40752062982705
+planned,Bayesian_PF point,18,5.96930320938148
+planned,Bayesian_PF point,19,3.73537006831253
+planned,Bayesian_PF point,20,5.41676703200227
+planned,Bayesian_PF point,21,3.60683717701072
+planned,Bayesian_PF point,22,5.01739674940842
+planned,Bayesian_PF point,23,3.86606460496407
+planned,Bayesian_PF point,24,6.40102813621708
+planned,Bayesian_PF point,25,5.08644647974736
+planned,Bayesian_PF point,26,6.06437388380094
+planned,Bayesian_PF point,27,5.08596240260144
+planned,Bayesian_PF point,28,6.06454544968401
+planned,Bayesian_PF point,29,6.64150661967371
+planned,Bayesian_PF point,30,4.81943161327838
+planned,Bayesian_PF conformal lower,1,1.34376417522214
+planned,Bayesian_PF conformal lower,2,1.33870626358843
+planned,Bayesian_PF conformal lower,3,1.34887525557331
+planned,Bayesian_PF conformal lower,4,1.33741837638904
+planned,Bayesian_PF conformal lower,5,1.20625139307083
+planned,Bayesian_PF conformal lower,6,1.16096811087843
+planned,Bayesian_PF conformal lower,7,1.43434216671595
+planned,Bayesian_PF conformal lower,8,1.76434115791103
+planned,Bayesian_PF conformal lower,9,1.43578529792148
+planned,Bayesian_PF conformal lower,10,1.47517876312055
+planned,Bayesian_PF conformal lower,11,1.68812812658716
+planned,Bayesian_PF conformal lower,12,1.10817017157813
+planned,Bayesian_PF conformal lower,13,1.46146883506081
+planned,Bayesian_PF conformal lower,14,1.63976527736498
+planned,Bayesian_PF conformal lower,15,1.46091183171972
+planned,Bayesian_PF conformal lower,16,1.63919430800292
+planned,Bayesian_PF conformal lower,17,1.72592153834617
+planned,Bayesian_PF conformal lower,18,1.67456879768026
+planned,Bayesian_PF conformal lower,19,1.23872828619824
+planned,Bayesian_PF conformal lower,20,1.2256690476197
+planned,Bayesian_PF conformal lower,21,1.23756558791922
+planned,Bayesian_PF conformal lower,22,1.22996246173522
+planned,Bayesian_PF conformal lower,23,1.46038821225936
+planned,Bayesian_PF conformal lower,24,1.5256413889722
+planned,Bayesian_PF conformal lower,25,1.60474886682965
+planned,Bayesian_PF conformal lower,26,1.76232279721134
+planned,Bayesian_PF conformal lower,27,1.60430241796723
+planned,Bayesian_PF conformal lower,28,1.62297586887786
+planned,Bayesian_PF conformal lower,29,1.32130412309183
+planned,Bayesian_PF conformal lower,30,1.25442077481233
+planned,Physics_SSM point,1,2.9297122346979
+planned,Physics_SSM point,2,4.26870138376576
+planned,Physics_SSM point,3,2.80499559916863
+planned,Physics_SSM point,4,4.26861443713454
+planned,Physics_SSM point,5,2.94960896665258
+planned,Physics_SSM point,6,4.52942580936016
+planned,Physics_SSM point,7,5.45679045306597
+planned,Physics_SSM point,8,5.86618188410628
+planned,Physics_SSM point,9,5.07598997820316
+planned,Physics_SSM point,10,5.8665448074592
+planned,Physics_SSM point,11,6.02054398201956
+planned,Physics_SSM point,12,5.16831699161093
+planned,Physics_SSM point,13,5.15486211792658
+planned,Physics_SSM point,14,6.25011035024741
+planned,Physics_SSM point,15,5.15531589899561
+planned,Physics_SSM point,16,6.10486265285848
+planned,Physics_SSM point,17,5.40742134960316
+planned,Physics_SSM point,18,5.82367537994361
+planned,Physics_SSM point,19,3.73521432448294
+planned,Physics_SSM point,20,5.28333831556744
+planned,Physics_SSM point,21,3.60747926405964
+planned,Physics_SSM point,22,5.01737365132115
+planned,Physics_SSM point,23,3.86639557123405
+planned,Physics_SSM point,24,6.40066376098548
+planned,Physics_SSM point,25,5.08594191697304
+planned,Physics_SSM point,26,6.20477475813168
+planned,Physics_SSM point,27,5.21765939766625
+planned,Physics_SSM point,28,6.06488506176508
+planned,Physics_SSM point,29,6.64207297177887
+planned,Physics_SSM point,30,4.81958803499458
+planned,Physics_SSM conformal lower,1,1.34413772682734
+planned,Physics_SSM conformal lower,2,1.33875838279735
+planned,Physics_SSM conformal lower,3,1.34871898867079
+planned,Physics_SSM conformal lower,4,1.33753142043919
+planned,Physics_SSM conformal lower,5,1.2064066298491
+planned,Physics_SSM conformal lower,6,1.16071389936852
+planned,Physics_SSM conformal lower,7,1.43469424670689
+planned,Physics_SSM conformal lower,8,1.62118172779592
+planned,Physics_SSM conformal lower,9,1.43487351934661
+planned,Physics_SSM conformal lower,10,1.61903676441461
+planned,Physics_SSM conformal lower,11,1.68999334768815
+planned,Physics_SSM conformal lower,12,1.10723149417586
+planned,Physics_SSM conformal lower,13,1.58926814618886
+planned,Physics_SSM conformal lower,14,1.63933592286677
+planned,Physics_SSM conformal lower,15,1.46010963115225
+planned,Physics_SSM conformal lower,16,1.6396644404234
+planned,Physics_SSM conformal lower,17,1.58014556295481
+planned,Physics_SSM conformal lower,18,1.67371720667906
+planned,Physics_SSM conformal lower,19,1.23654835172526
+planned,Physics_SSM conformal lower,20,1.22635345875254
+planned,Physics_SSM conformal lower,21,1.23654248813418
+planned,Physics_SSM conformal lower,22,1.2277769053965
+planned,Physics_SSM conformal lower,23,1.4627347605122
+planned,Physics_SSM conformal lower,24,1.52550367348426
+planned,Physics_SSM conformal lower,25,1.47202968373109
+planned,Physics_SSM conformal lower,26,1.76446318487886
+planned,Physics_SSM conformal lower,27,1.4723809873088
+planned,Physics_SSM conformal lower,28,1.76403716683738
+planned,Physics_SSM conformal lower,29,1.32416991902849
+planned,Physics_SSM conformal lower,30,1.25418573654751
+planned,Basis_hybrid point,1,2.9297122346979
+planned,Basis_hybrid point,2,4.26870138376576
+planned,Basis_hybrid point,3,2.92927818417032
+planned,Basis_hybrid point,4,4.26861443713454
+planned,Basis_hybrid point,5,2.94960896665258
+planned,Basis_hybrid point,6,4.52942580936016
+planned,Basis_hybrid point,7,5.45679045306597
+planned,Basis_hybrid point,8,5.58201134040865
+planned,Basis_hybrid point,9,5.07598997820316
+planned,Basis_hybrid point,10,5.8665448074592
+planned,Basis_hybrid point,11,5.88024570946099
+planned,Basis_hybrid point,12,5.0177522228977
+planned,Basis_hybrid point,13,5.15486211792658
+planned,Basis_hybrid point,14,5.66986316448616
+planned,Basis_hybrid point,15,5.15531589899561
+planned,Basis_hybrid point,16,5.37920846570599
+planned,Basis_hybrid point,17,5.40742134960316
+planned,Basis_hybrid point,18,5.23606109663682
+planned,Basis_hybrid point,19,3.73521432448294
+planned,Basis_hybrid point,20,3.55538499887571
+planned,Basis_hybrid point,21,3.60747926405964
+planned,Basis_hybrid point,22,3.95411007738487
+planned,Basis_hybrid point,23,3.86639557123405
+planned,Basis_hybrid point,24,4.1717766525805
+planned,Basis_hybrid point,25,5.08594191697304
+planned,Basis_hybrid point,26,6.20477475813168
+planned,Basis_hybrid point,27,5.21765939766625
+planned,Basis_hybrid point,28,6.06488506176508
+planned,Basis_hybrid point,29,6.64207297177887
+planned,Basis_hybrid point,30,5.36969172312011
+planned,Basis_hybrid conformal lower,1,1.34413772682734
+planned,Basis_hybrid conformal lower,2,1.33875838279735
+planned,Basis_hybrid conformal lower,3,1.34280630078913
+planned,Basis_hybrid conformal lower,4,1.33753142043919
+planned,Basis_hybrid conformal lower,5,1.2064066298491
+planned,Basis_hybrid conformal lower,6,1.16071389936852
+planned,Basis_hybrid conformal lower,7,1.43469424670689
+planned,Basis_hybrid conformal lower,8,1.33223978067559
+planned,Basis_hybrid conformal lower,9,1.43487351934661
+planned,Basis_hybrid conformal lower,10,1.61903676441461
+planned,Basis_hybrid conformal lower,11,1.40885403759383
+planned,Basis_hybrid conformal lower,12,1.4765905939869
+planned,Basis_hybrid conformal lower,13,1.58926814618886
+planned,Basis_hybrid conformal lower,14,1.63840661067298
+planned,Basis_hybrid conformal lower,15,1.46010963115225
+planned,Basis_hybrid conformal lower,16,1.63763044895396
+planned,Basis_hybrid conformal lower,17,1.58014556295481
+planned,Basis_hybrid conformal lower,18,1.63820266557082
+planned,Basis_hybrid conformal lower,19,1.23654835172526
+planned,Basis_hybrid conformal lower,20,1.22269869237013
+planned,Basis_hybrid conformal lower,21,1.23654248813418
+planned,Basis_hybrid conformal lower,22,1.22153851062642
+planned,Basis_hybrid conformal lower,23,1.4627347605122
+planned,Basis_hybrid conformal lower,24,1.22914859755627
+planned,Basis_hybrid conformal lower,25,1.47202968373109
+planned,Basis_hybrid conformal lower,26,1.76446318487886
+planned,Basis_hybrid conformal lower,27,1.4723809873088
+planned,Basis_hybrid conformal lower,28,1.76403716683738
+planned,Basis_hybrid conformal lower,29,1.32416991902849
+planned,Basis_hybrid conformal lower,30,1.36358460550821
+planned,LSTM point,1,4.97689447244726
+planned,LSTM point,2,5.76404744402821
+planned,LSTM point,3,5.85670244950649
+planned,LSTM point,4,4.82496259504537
+planned,LSTM point,5,5.11678723945222
+planned,LSTM point,6,4.51575039561099
+planned,LSTM point,7,3.94970362325232
+planned,LSTM point,8,4.02630983925382
+planned,LSTM point,9,4.2061197422113
+planned,LSTM point,10,4.88096724373494
+planned,LSTM point,11,5.47180829416745
+planned,LSTM point,12,5.16527593042933
+planned,LSTM point,13,7.09177155150853
+planned,LSTM point,14,6.11369512814683
+planned,LSTM point,15,5.93728111442726
+planned,LSTM point,16,5.384683346711
+planned,LSTM point,17,5.68795193990587
+planned,LSTM point,18,6.54716327410164
+planned,LSTM point,19,3.51870380714638
+planned,LSTM point,20,5.59342812410413
+planned,LSTM point,21,4.04154366566731
+planned,LSTM point,22,3.071359188404
+planned,LSTM point,23,4.16449988575433
+planned,LSTM point,24,4.22435133179512
+planned,LSTM point,25,6.02412835615392
+planned,LSTM point,26,5.81170064773574
+planned,LSTM point,27,6.02738761449525
+planned,LSTM point,28,6.22471298636926
+planned,LSTM point,29,5.95958906423186
+planned,LSTM point,30,4.96730346936256
+planned,LSTM conformal lower,1,1.5765465382303
+planned,LSTM conformal lower,2,1.56902414473534
+planned,LSTM conformal lower,3,1.5465933127415
+planned,LSTM conformal lower,4,1.30705593163877
+planned,LSTM conformal lower,5,1.52752776639766
+planned,LSTM conformal lower,6,1.42494826486905
+planned,LSTM conformal lower,7,1.57628945226854
+planned,LSTM conformal lower,8,1.15416634678496
+planned,LSTM conformal lower,9,1.19187666714104
+planned,LSTM conformal lower,10,1.16120495378247
+planned,LSTM conformal lower,11,1.18655642208678
+planned,LSTM conformal lower,12,1.33690759844649
+planned,LSTM conformal lower,13,2.18200990651495
+planned,LSTM conformal lower,14,1.56828832381539
+planned,LSTM conformal lower,15,2.45366201740257
+planned,LSTM conformal lower,16,1.54972313087666
+planned,LSTM conformal lower,17,2.1936761033442
+planned,LSTM conformal lower,18,1.88018461777955
+planned,LSTM conformal lower,19,1.35256440659722
+planned,LSTM conformal lower,20,1.21105664838886
+planned,LSTM conformal lower,21,1.34384018174719
+planned,LSTM conformal lower,22,1.18524374406763
+planned,LSTM conformal lower,23,1.65851645750775
+planned,LSTM conformal lower,24,1.25022721424561
+planned,LSTM conformal lower,25,1.84156737844658
+planned,LSTM conformal lower,26,1.33806873989462
+planned,LSTM conformal lower,27,1.32218568330982
+planned,LSTM conformal lower,28,1.33592565249198
+planned,LSTM conformal lower,29,1.27176338602898
+planned,LSTM conformal lower,30,1.63371485784761
+probabilistic,Corrective (run-to-failure),1,9
+probabilistic,Corrective (run-to-failure),2,9
+probabilistic,Corrective (run-to-failure),3,9
+probabilistic,Corrective (run-to-failure),4,9
+probabilistic,Corrective (run-to-failure),5,9
+probabilistic,Corrective (run-to-failure),6,9
+probabilistic,Corrective (run-to-failure),7,9
+probabilistic,Corrective (run-to-failure),8,9
+probabilistic,Corrective (run-to-failure),9,9
+probabilistic,Corrective (run-to-failure),10,9
+probabilistic,Corrective (run-to-failure),11,9
+probabilistic,Corrective (run-to-failure),12,9
+probabilistic,Corrective (run-to-failure),13,9
+probabilistic,Corrective (run-to-failure),14,9
+probabilistic,Corrective (run-to-failure),15,9
+probabilistic,Corrective (run-to-failure),16,9
+probabilistic,Corrective (run-to-failure),17,9
+probabilistic,Corrective (run-to-failure),18,9
+probabilistic,Corrective (run-to-failure),19,9
+probabilistic,Corrective (run-to-failure),20,9
+probabilistic,Corrective (run-to-failure),21,9
+probabilistic,Corrective (run-to-failure),22,9
+probabilistic,Corrective (run-to-failure),23,9
+probabilistic,Corrective (run-to-failure),24,9
+probabilistic,Corrective (run-to-failure),25,9
+probabilistic,Corrective (run-to-failure),26,9
+probabilistic,Corrective (run-to-failure),27,9
+probabilistic,Corrective (run-to-failure),28,9
+probabilistic,Corrective (run-to-failure),29,9
+probabilistic,Corrective (run-to-failure),30,9
+probabilistic,Periodic (CAL-fleet L10 age),1,1.62308783174689
+probabilistic,Periodic (CAL-fleet L10 age),2,1.57112259877526
+probabilistic,Periodic (CAL-fleet L10 age),3,1.62308783174689
+probabilistic,Periodic (CAL-fleet L10 age),4,1.57112259877526
+probabilistic,Periodic (CAL-fleet L10 age),5,1.57112259877526
+probabilistic,Periodic (CAL-fleet L10 age),6,2.03978359869708
+probabilistic,Periodic (CAL-fleet L10 age),7,2.54539652234229
+probabilistic,Periodic (CAL-fleet L10 age),8,2.45340929388818
+probabilistic,Periodic (CAL-fleet L10 age),9,2.54539652234229
+probabilistic,Periodic (CAL-fleet L10 age),10,2.45340929388818
+probabilistic,Periodic (CAL-fleet L10 age),11,2.45340929388818
+probabilistic,Periodic (CAL-fleet L10 age),12,2.42695169840622
+probabilistic,Periodic (CAL-fleet L10 age),13,4.00308903678604
+probabilistic,Periodic (CAL-fleet L10 age),14,2.62867728917886
+probabilistic,Periodic (CAL-fleet L10 age),15,4.00308903678604
+probabilistic,Periodic (CAL-fleet L10 age),16,2.62867728917886
+probabilistic,Periodic (CAL-fleet L10 age),17,2.62867728917886
+probabilistic,Periodic (CAL-fleet L10 age),18,3.49752682829902
+probabilistic,Periodic (CAL-fleet L10 age),19,1.73164705596765
+probabilistic,Periodic (CAL-fleet L10 age),20,2.01884706777434
+probabilistic,Periodic (CAL-fleet L10 age),21,1.73164705596765
+probabilistic,Periodic (CAL-fleet L10 age),22,2.01884706777434
+probabilistic,Periodic (CAL-fleet L10 age),23,2.01884706777434
+probabilistic,Periodic (CAL-fleet L10 age),24,2.14287421593309
+probabilistic,Periodic (CAL-fleet L10 age),25,2.40221370502525
+probabilistic,Periodic (CAL-fleet L10 age),26,1.6799838268365
+probabilistic,Periodic (CAL-fleet L10 age),27,2.40221370502525
+probabilistic,Periodic (CAL-fleet L10 age),28,1.6799838268365
+probabilistic,Periodic (CAL-fleet L10 age),29,1.6799838268365
+probabilistic,Periodic (CAL-fleet L10 age),30,1.6700389387302
+probabilistic,PI_DSSDM point,1,4.57664735069084
+probabilistic,PI_DSSDM point,2,5.48614452163775
+probabilistic,PI_DSSDM point,3,3.94325877634357
+probabilistic,PI_DSSDM point,4,4.94479073163297
+probabilistic,PI_DSSDM point,5,4.83311937026066
+probabilistic,PI_DSSDM point,6,4.76991837651272
+probabilistic,PI_DSSDM point,7,5.3274360256318
+probabilistic,PI_DSSDM point,8,6.00872999462529
+probabilistic,PI_DSSDM point,9,5.70809239128631
+probabilistic,PI_DSSDM point,10,6.1512277855892
+probabilistic,PI_DSSDM point,11,5.88023151662912
+probabilistic,PI_DSSDM point,12,5.43127591980144
+probabilistic,PI_DSSDM point,13,5.80380959570064
+probabilistic,PI_DSSDM point,14,5.95995388548352
+probabilistic,PI_DSSDM point,15,5.67547823091138
+probabilistic,PI_DSSDM point,16,5.96005815307081
+probabilistic,PI_DSSDM point,17,5.40301524346483
+probabilistic,PI_DSSDM point,18,5.96279879716219
+probabilistic,PI_DSSDM point,19,3.99568968197646
+probabilistic,PI_DSSDM point,20,4.35597487729469
+probabilistic,PI_DSSDM point,21,3.99531050229135
+probabilistic,PI_DSSDM point,22,3.9554736509938
+probabilistic,PI_DSSDM point,23,4.13202041445951
+probabilistic,PI_DSSDM point,24,4.43542668370705
+probabilistic,PI_DSSDM point,25,6.66264325110344
+probabilistic,PI_DSSDM point,26,6.34800286041834
+probabilistic,PI_DSSDM point,27,6.40021103477801
+probabilistic,PI_DSSDM point,28,6.34692295043606
+probabilistic,PI_DSSDM point,29,6.77941804084636
+probabilistic,PI_DSSDM point,30,7.0545254050356
+probabilistic,PI_DSSDM conformal lower,1,1.48194681613396
+probabilistic,PI_DSSDM conformal lower,2,1.61324760641
+probabilistic,PI_DSSDM conformal lower,3,1.48099498775569
+probabilistic,PI_DSSDM conformal lower,4,1.61319678467872
+probabilistic,PI_DSSDM conformal lower,5,1.22315634318955
+probabilistic,PI_DSSDM conformal lower,6,1.50182959247712
+probabilistic,PI_DSSDM conformal lower,7,1.56540891342921
+probabilistic,PI_DSSDM conformal lower,8,1.62557494327704
+probabilistic,PI_DSSDM conformal lower,9,1.56459431794656
+probabilistic,PI_DSSDM conformal lower,10,1.62474043113956
+probabilistic,PI_DSSDM conformal lower,11,1.27417787517076
+probabilistic,PI_DSSDM conformal lower,12,1.76027468662235
+probabilistic,PI_DSSDM conformal lower,13,1.34192781603088
+probabilistic,PI_DSSDM conformal lower,14,1.64093152939595
+probabilistic,PI_DSSDM conformal lower,15,1.34215154415735
+probabilistic,PI_DSSDM conformal lower,16,1.49591349996311
+probabilistic,PI_DSSDM conformal lower,17,1.57404893264591
+probabilistic,PI_DSSDM conformal lower,18,1.50581769719686
+probabilistic,PI_DSSDM conformal lower,19,1.24701518500326
+probabilistic,PI_DSSDM conformal lower,20,1.23622682630154
+probabilistic,PI_DSSDM conformal lower,21,1.24198746940127
+probabilistic,PI_DSSDM conformal lower,22,1.23614695579442
+probabilistic,PI_DSSDM conformal lower,23,1.47024966827115
+probabilistic,PI_DSSDM conformal lower,24,1.25053423308118
+probabilistic,PI_DSSDM conformal lower,25,1.74584000701213
+probabilistic,PI_DSSDM conformal lower,26,1.35866443958326
+probabilistic,PI_DSSDM conformal lower,27,1.61551508120434
+probabilistic,PI_DSSDM conformal lower,28,1.49016759302122
+probabilistic,PI_DSSDM conformal lower,29,1.47153708524695
+probabilistic,PI_DSSDM conformal lower,30,1.64968993782311
+probabilistic,Inverse_PINN point,1,4.95548686782526
+probabilistic,Inverse_PINN point,2,4.54211641292809
+probabilistic,Inverse_PINN point,3,3.81651416165877
+probabilistic,Inverse_PINN point,4,4.81160578917523
+probabilistic,Inverse_PINN point,5,3.75425390502593
+probabilistic,Inverse_PINN point,6,4.76255274186739
+probabilistic,Inverse_PINN point,7,5.32948144319667
+probabilistic,Inverse_PINN point,8,6.15084652374082
+probabilistic,Inverse_PINN point,9,5.46036459591747
+probabilistic,Inverse_PINN point,10,5.86866581111437
+probabilistic,Inverse_PINN point,11,6.02081043941176
+probabilistic,Inverse_PINN point,12,5.43297200253059
+probabilistic,Inverse_PINN point,13,6.06032388425414
+probabilistic,Inverse_PINN point,14,5.9587594465786
+probabilistic,Inverse_PINN point,15,6.06032135406783
+probabilistic,Inverse_PINN point,16,5.81354279112209
+probabilistic,Inverse_PINN point,17,5.4041902375507
+probabilistic,Inverse_PINN point,18,6.10826917060785
+probabilistic,Inverse_PINN point,19,4.5103491007285
+probabilistic,Inverse_PINN point,20,4.08628700553771
+probabilistic,Inverse_PINN point,21,3.99656819434136
+probabilistic,Inverse_PINN point,22,4.35356988622111
+probabilistic,Inverse_PINN point,23,4.26574461899345
+probabilistic,Inverse_PINN point,24,4.82845533180567
+probabilistic,Inverse_PINN point,25,6.4028353266804
+probabilistic,Inverse_PINN point,26,6.06598333820135
+probabilistic,Inverse_PINN point,27,6.0096629976122
+probabilistic,Inverse_PINN point,28,5.78892259001323
+probabilistic,Inverse_PINN point,29,7.05696206485013
+probabilistic,Inverse_PINN point,30,6.63391632157416
+probabilistic,Inverse_PINN conformal lower,1,1.47681992189557
+probabilistic,Inverse_PINN conformal lower,2,1.35134032526309
+probabilistic,Inverse_PINN conformal lower,3,1.48107010324069
+probabilistic,Inverse_PINN conformal lower,4,1.61798487851588
+probabilistic,Inverse_PINN conformal lower,5,1.20470736255184
+probabilistic,Inverse_PINN conformal lower,6,1.48557029341326
+probabilistic,Inverse_PINN conformal lower,7,1.69564230800654
+probabilistic,Inverse_PINN conformal lower,8,1.62647182585639
+probabilistic,Inverse_PINN conformal lower,9,1.95147553917734
+probabilistic,Inverse_PINN conformal lower,10,1.76973618674051
+probabilistic,Inverse_PINN conformal lower,11,1.40125986227837
+probabilistic,Inverse_PINN conformal lower,12,1.8979688146648
+probabilistic,Inverse_PINN conformal lower,13,1.47236586382942
+probabilistic,Inverse_PINN conformal lower,14,1.49639336457909
+probabilistic,Inverse_PINN conformal lower,15,1.59888191784791
+probabilistic,Inverse_PINN conformal lower,16,1.4944036072484
+probabilistic,Inverse_PINN conformal lower,17,1.71837163356579
+probabilistic,Inverse_PINN conformal lower,18,1.65616889389634
+probabilistic,Inverse_PINN conformal lower,19,1.23976639456006
+probabilistic,Inverse_PINN conformal lower,20,1.35995930479861
+probabilistic,Inverse_PINN conformal lower,21,1.24211489205144
+probabilistic,Inverse_PINN conformal lower,22,1.22932993598135
+probabilistic,Inverse_PINN conformal lower,23,1.462787411058
+probabilistic,Inverse_PINN conformal lower,24,1.38880019849663
+probabilistic,Inverse_PINN conformal lower,25,1.74360900917399
+probabilistic,Inverse_PINN conformal lower,26,1.36219445829366
+probabilistic,Inverse_PINN conformal lower,27,1.61630112739786
+probabilistic,Inverse_PINN conformal lower,28,1.36750349094969
+probabilistic,Inverse_PINN conformal lower,29,1.48702346398964
+probabilistic,Inverse_PINN conformal lower,30,1.38412493435552
+probabilistic,Bayesian_PF point,1,4.57666286635868
+probabilistic,Bayesian_PF point,2,5.07937542882176
+probabilistic,Bayesian_PF point,3,3.94395418497996
+probabilistic,Bayesian_PF point,4,5.21529413241969
+probabilistic,Bayesian_PF point,5,3.61945736607209
+probabilistic,Bayesian_PF point,6,5.03890661766351
+probabilistic,Bayesian_PF point,7,5.58132563072469
+probabilistic,Bayesian_PF point,8,6.15061354533348
+probabilistic,Bayesian_PF point,9,5.20094194472271
+probabilistic,Bayesian_PF point,10,6.29362652659502
+probabilistic,Bayesian_PF point,11,6.30318562425876
+probabilistic,Bayesian_PF point,12,5.30539664539807
+probabilistic,Bayesian_PF point,13,5.67488594049058
+probabilistic,Bayesian_PF point,14,6.39455292380342
+probabilistic,Bayesian_PF point,15,5.54619808952715
+probabilistic,Bayesian_PF point,16,6.10398466035734
+probabilistic,Bayesian_PF point,17,5.40379011368533
+probabilistic,Bayesian_PF point,18,5.82269283059571
+probabilistic,Bayesian_PF point,19,3.73738464563897
+probabilistic,Bayesian_PF point,20,5.55066803510609
+probabilistic,Bayesian_PF point,21,3.86639734537708
+probabilistic,Bayesian_PF point,22,5.55095303483863
+probabilistic,Bayesian_PF point,23,4.13217521831456
+probabilistic,Bayesian_PF point,24,6.40037650550897
+probabilistic,Bayesian_PF point,25,6.53153179458139
+probabilistic,Bayesian_PF point,26,6.90712764701972
+probabilistic,Bayesian_PF point,27,6.39959772233599
+probabilistic,Bayesian_PF point,28,6.76677128717793
+probabilistic,Bayesian_PF point,29,6.63751764684468
+probabilistic,Bayesian_PF point,30,5.37536094252855
+probabilistic,Bayesian_PF conformal lower,1,1.48168740051067
+probabilistic,Bayesian_PF conformal lower,2,1.61358079646758
+probabilistic,Bayesian_PF conformal lower,3,1.48260947017327
+probabilistic,Bayesian_PF conformal lower,4,1.61222139795327
+probabilistic,Bayesian_PF conformal lower,5,1.20629569033485
+probabilistic,Bayesian_PF conformal lower,6,1.15926175398416
+probabilistic,Bayesian_PF conformal lower,7,1.56548131649835
+probabilistic,Bayesian_PF conformal lower,8,1.76676548524664
+probabilistic,Bayesian_PF conformal lower,9,1.56565467196574
+probabilistic,Bayesian_PF conformal lower,10,1.76603273872407
+probabilistic,Bayesian_PF conformal lower,11,1.83136799119458
+probabilistic,Bayesian_PF conformal lower,12,1.10250184586457
+probabilistic,Bayesian_PF conformal lower,13,1.34121863654777
+probabilistic,Bayesian_PF conformal lower,14,1.64469834672444
+probabilistic,Bayesian_PF conformal lower,15,1.34289588866621
+probabilistic,Bayesian_PF conformal lower,16,1.64324593769257
+probabilistic,Bayesian_PF conformal lower,17,1.71612941836928
+probabilistic,Bayesian_PF conformal lower,18,1.82216658213433
+probabilistic,Bayesian_PF conformal lower,19,1.24470770784746
+probabilistic,Bayesian_PF conformal lower,20,1.37133034219973
+probabilistic,Bayesian_PF conformal lower,21,1.24535496629193
+probabilistic,Bayesian_PF conformal lower,22,1.23836500906645
+probabilistic,Bayesian_PF conformal lower,23,1.47046920235151
+probabilistic,Bayesian_PF conformal lower,24,1.41112044558145
+probabilistic,Bayesian_PF conformal lower,25,1.74491528640689
+probabilistic,Bayesian_PF conformal lower,26,1.5039060803986
+probabilistic,Bayesian_PF conformal lower,27,1.73855242314175
+probabilistic,Bayesian_PF conformal lower,28,1.22100583109954
+probabilistic,Bayesian_PF conformal lower,29,1.47691952238158
+probabilistic,Bayesian_PF conformal lower,30,1.25901015454303
+probabilistic,Physics_SSM point,1,4.57664735069084
+probabilistic,Physics_SSM point,2,5.48614452163775
+probabilistic,Physics_SSM point,3,3.94407257826715
+probabilistic,Physics_SSM point,4,5.21529548222421
+probabilistic,Physics_SSM point,5,3.48390550921224
+probabilistic,Physics_SSM point,6,5.03889878054511
+probabilistic,Physics_SSM point,7,5.3274360256318
+probabilistic,Physics_SSM point,8,6.15038054986924
+probabilistic,Physics_SSM point,9,5.20093489854945
+probabilistic,Physics_SSM point,10,6.29343330132695
+probabilistic,Physics_SSM point,11,6.30394930390988
+probabilistic,Physics_SSM point,12,5.30556861321748
+probabilistic,Physics_SSM point,13,5.80380959570064
+probabilistic,Physics_SSM point,14,6.24916361549206
+probabilistic,Physics_SSM point,15,5.67547823091138
+probabilistic,Physics_SSM point,16,6.10375354917565
+probabilistic,Physics_SSM point,17,5.40399865014366
+probabilistic,Physics_SSM point,18,5.96811457940502
+probabilistic,Physics_SSM point,19,3.73735751452695
+probabilistic,Physics_SSM point,20,5.55044844047241
+probabilistic,Physics_SSM point,21,3.86714496588618
+probabilistic,Physics_SSM point,22,5.55121404030702
+probabilistic,Physics_SSM point,23,4.13202041445951
+probabilistic,Physics_SSM point,24,6.3998878788035
+probabilistic,Physics_SSM point,25,6.53106458604166
+probabilistic,Physics_SSM point,26,6.90719319342556
+probabilistic,Physics_SSM point,27,6.26870970958213
+probabilistic,Physics_SSM point,28,6.90731075324816
+probabilistic,Physics_SSM point,29,6.77809037404361
+probabilistic,Physics_SSM point,30,5.37558407489865
+probabilistic,Physics_SSM conformal lower,1,1.48194681613396
+probabilistic,Physics_SSM conformal lower,2,1.61324760641
+probabilistic,Physics_SSM conformal lower,3,1.48223882892803
+probabilistic,Physics_SSM conformal lower,4,1.61253072121202
+probabilistic,Physics_SSM conformal lower,5,1.20571861513603
+probabilistic,Physics_SSM conformal lower,6,1.15770370704056
+probabilistic,Physics_SSM conformal lower,7,1.56540891342921
+probabilistic,Physics_SSM conformal lower,8,1.76701545775308
+probabilistic,Physics_SSM conformal lower,9,1.56611666473462
+probabilistic,Physics_SSM conformal lower,10,1.7664741823396
+probabilistic,Physics_SSM conformal lower,11,1.68621416295534
+probabilistic,Physics_SSM conformal lower,12,1.10273221706025
+probabilistic,Physics_SSM conformal lower,13,1.34192781603088
+probabilistic,Physics_SSM conformal lower,14,1.64377953246219
+probabilistic,Physics_SSM conformal lower,15,1.34215154415735
+probabilistic,Physics_SSM conformal lower,16,1.64231289890129
+probabilistic,Physics_SSM conformal lower,17,1.71596197498903
+probabilistic,Physics_SSM conformal lower,18,1.81947415463871
+probabilistic,Physics_SSM conformal lower,19,1.24457286081406
+probabilistic,Physics_SSM conformal lower,20,1.36993953392751
+probabilistic,Physics_SSM conformal lower,21,1.24453124586686
+probabilistic,Physics_SSM conformal lower,22,1.37238655356256
+probabilistic,Physics_SSM conformal lower,23,1.47024966827115
+probabilistic,Physics_SSM conformal lower,24,1.41060893489749
+probabilistic,Physics_SSM conformal lower,25,1.74260437156098
+probabilistic,Physics_SSM conformal lower,26,1.50161273469297
+probabilistic,Physics_SSM conformal lower,27,1.74198515353593
+probabilistic,Physics_SSM conformal lower,28,1.49851242169976
+probabilistic,Physics_SSM conformal lower,29,1.47647254166099
+probabilistic,Physics_SSM conformal lower,30,1.26034616853749
+probabilistic,Basis_hybrid point,1,4.57664735069084
+probabilistic,Basis_hybrid point,2,5.48614452163775
+probabilistic,Basis_hybrid point,3,3.94407257826715
+probabilistic,Basis_hybrid point,4,5.21529548222421
+probabilistic,Basis_hybrid point,5,3.48390550921224
+probabilistic,Basis_hybrid point,6,5.03889878054511
+probabilistic,Basis_hybrid point,7,5.3274360256318
+probabilistic,Basis_hybrid point,8,6.00836097983904
+probabilistic,Basis_hybrid point,9,5.20093489854945
+probabilistic,Basis_hybrid point,10,6.29343330132695
+probabilistic,Basis_hybrid point,11,6.02017165715611
+probabilistic,Basis_hybrid point,12,5.8439130871535
+probabilistic,Basis_hybrid point,13,5.80380959570064
+probabilistic,Basis_hybrid point,14,5.95995388548352
+probabilistic,Basis_hybrid point,15,5.67547823091138
+probabilistic,Basis_hybrid point,16,5.96005815307081
+probabilistic,Basis_hybrid point,17,5.40399865014366
+probabilistic,Basis_hybrid point,18,5.964014158584
+probabilistic,Basis_hybrid point,19,3.73735751452695
+probabilistic,Basis_hybrid point,20,4.35597487729469
+probabilistic,Basis_hybrid point,21,3.86714496588618
+probabilistic,Basis_hybrid point,22,4.22218414059804
+probabilistic,Basis_hybrid point,23,4.13202041445951
+probabilistic,Basis_hybrid point,24,4.43542668370705
+probabilistic,Basis_hybrid point,25,6.53106458604166
+probabilistic,Basis_hybrid point,26,6.90719319342556
+probabilistic,Basis_hybrid point,27,6.26870970958213
+probabilistic,Basis_hybrid point,28,6.90731075324816
+probabilistic,Basis_hybrid point,29,6.77809037404361
+probabilistic,Basis_hybrid point,30,6.63298308343907
+probabilistic,Basis_hybrid conformal lower,1,1.48194681613396
+probabilistic,Basis_hybrid conformal lower,2,1.61324760641
+probabilistic,Basis_hybrid conformal lower,3,1.48223882892803
+probabilistic,Basis_hybrid conformal lower,4,1.61253072121202
+probabilistic,Basis_hybrid conformal lower,5,1.20571861513603
+probabilistic,Basis_hybrid conformal lower,6,1.15770370704056
+probabilistic,Basis_hybrid conformal lower,7,1.56540891342921
+probabilistic,Basis_hybrid conformal lower,8,1.48145130634623
+probabilistic,Basis_hybrid conformal lower,9,1.56611666473462
+probabilistic,Basis_hybrid conformal lower,10,1.7664741823396
+probabilistic,Basis_hybrid conformal lower,11,1.40810271979801
+probabilistic,Basis_hybrid conformal lower,12,1.62383830804458
+probabilistic,Basis_hybrid conformal lower,13,1.34192781603088
+probabilistic,Basis_hybrid conformal lower,14,1.64093152939595
+probabilistic,Basis_hybrid conformal lower,15,1.34215154415735
+probabilistic,Basis_hybrid conformal lower,16,1.49591349996311
+probabilistic,Basis_hybrid conformal lower,17,1.71596197498903
+probabilistic,Basis_hybrid conformal lower,18,1.64927735469898
+probabilistic,Basis_hybrid conformal lower,19,1.24457286081406
+probabilistic,Basis_hybrid conformal lower,20,1.23622682630154
+probabilistic,Basis_hybrid conformal lower,21,1.24453124586686
+probabilistic,Basis_hybrid conformal lower,22,1.23734209108138
+probabilistic,Basis_hybrid conformal lower,23,1.47024966827115
+probabilistic,Basis_hybrid conformal lower,24,1.25053423308118
+probabilistic,Basis_hybrid conformal lower,25,1.74260437156098
+probabilistic,Basis_hybrid conformal lower,26,1.50161273469297
+probabilistic,Basis_hybrid conformal lower,27,1.74198515353593
+probabilistic,Basis_hybrid conformal lower,28,1.49851242169976
+probabilistic,Basis_hybrid conformal lower,29,1.47647254166099
+probabilistic,Basis_hybrid conformal lower,30,1.37372150860732
+probabilistic,LSTM point,1,4.48081783065814
+probabilistic,LSTM point,2,5.23323516154123
+probabilistic,LSTM point,3,4.59493333150717
+probabilistic,LSTM point,4,4.55899413855803
+probabilistic,LSTM point,5,4.18526310212626
+probabilistic,LSTM point,6,5.16208548291687
+probabilistic,LSTM point,7,4.20683231102624
+probabilistic,LSTM point,8,5.30387111294076
+probabilistic,LSTM point,9,4.9625062027427
+probabilistic,LSTM point,10,4.88137363871806
+probabilistic,LSTM point,11,4.63290530886383
+probabilistic,LSTM point,12,3.51536818952381
+probabilistic,LSTM point,13,6.96396895619351
+probabilistic,LSTM point,14,5.96556168679777
+probabilistic,LSTM point,15,5.94854231737315
+probabilistic,LSTM point,16,5.67558090615495
+probabilistic,LSTM point,17,5.68828028929219
+probabilistic,LSTM point,18,5.97197254271867
+probabilistic,LSTM point,19,4.66684039310921
+probabilistic,LSTM point,20,5.58870353164526
+probabilistic,LSTM point,21,4.02684895784236
+probabilistic,LSTM point,22,3.73772467333792
+probabilistic,LSTM point,23,4.83637439327027
+probabilistic,LSTM point,24,4.72795875308957
+probabilistic,LSTM point,25,6.28518172557936
+probabilistic,LSTM point,26,5.38877973239791
+probabilistic,LSTM point,27,6.15798184466877
+probabilistic,LSTM point,28,6.22328071397433
+probabilistic,LSTM point,29,6.51792822972579
+probabilistic,LSTM point,30,5.25415348473204
+probabilistic,LSTM conformal lower,1,1.31761381194056
+probabilistic,LSTM conformal lower,2,1.40987822124493
+probabilistic,LSTM conformal lower,3,1.44533062460629
+probabilistic,LSTM conformal lower,4,1.34121439527808
+probabilistic,LSTM conformal lower,5,1.40635046380693
+probabilistic,LSTM conformal lower,6,1.54474762633538
+probabilistic,LSTM conformal lower,7,1.20121549842225
+probabilistic,LSTM conformal lower,8,1.13771866533787
+probabilistic,LSTM conformal lower,9,1.18155326918051
+probabilistic,LSTM conformal lower,10,1.148176555167
+probabilistic,LSTM conformal lower,11,1.20868719406901
+probabilistic,LSTM conformal lower,12,1.1774446040998
+probabilistic,LSTM conformal lower,13,2.66478979608968
+probabilistic,LSTM conformal lower,14,1.55186053289648
+probabilistic,LSTM conformal lower,15,2.31078719941653
+probabilistic,LSTM conformal lower,16,1.55262417880079
+probabilistic,LSTM conformal lower,17,1.73126973027665
+probabilistic,LSTM conformal lower,18,1.84366302549621
+probabilistic,LSTM conformal lower,19,1.5873445001886
+probabilistic,LSTM conformal lower,20,1.2082586900712
+probabilistic,LSTM conformal lower,21,1.46230551912668
+probabilistic,LSTM conformal lower,22,1.16186471559064
+probabilistic,LSTM conformal lower,23,1.79900193421345
+probabilistic,LSTM conformal lower,24,1.34190103566555
+probabilistic,LSTM conformal lower,25,1.4302295552191
+probabilistic,LSTM conformal lower,26,1.18306351086631
+probabilistic,LSTM conformal lower,27,1.55729185211567
+probabilistic,LSTM conformal lower,28,1.31662876570519
+probabilistic,LSTM conformal lower,29,1.39447707676621
+probabilistic,LSTM conformal lower,30,2.16845237083525

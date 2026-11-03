@@ -1,0 +1,59 @@
+Policy,Quantity,Figure,Recomputed,AbsDiff
+planned,"panel a unit = fatigue_load_exponent_021",NaN,NaN,3.41060513164848e-13
+planned,"true RUL at 80 h",273.676108879603,273.676108879603,5.6843418860808e-14
+planned,"true RUL at 160 h",193.676108879603,193.676108879603,2.8421709430404e-14
+planned,"true RUL at 240 h",113.676108879603,113.676108879603,4.2632564145606e-14
+planned,"true RUL at 320 h",33.676108879603,33.676108879603,3.5527136788005e-14
+planned,"band lower, max over origins",169.498593918593,169.498593918593,8.5265128291212e-14
+planned,"band upper, max over origins",312.099482036532,312.099482036532,3.41060513164848e-13
+planned,"band width at 80 h",NaN,150.944352129437,0
+planned,"band width at 160 h",NaN,130.109627354626,0
+planned,"band width at 240 h",NaN,66.175364180341,0
+planned,"band width at 320 h",NaN,73.0509647323764,0
+planned,"PI_DSSDM row coverage %",88.7096774193548,88.7096774193548,0
+planned,"PI_DSSDM mean width h",81.613933961503,81.613933961503,4.2632564145606e-14
+planned,"PI_DSSDM MAE h",NaN,15.3566734056188,0
+planned,"Inverse_PINN row coverage %",91.9354838709677,91.9354838709677,0
+planned,"Inverse_PINN mean width h",78.9918227197501,78.9918227197501,0
+planned,"Inverse_PINN MAE h",NaN,14.3934170255042,0
+planned,"LSTM row coverage %",96.7741935483871,96.7741935483871,0
+planned,"LSTM mean width h",148.410664136882,148.410664136882,2.8421709430404e-14
+planned,"LSTM MAE h",NaN,20.215380492847,0
+planned,"Physics_SSM row coverage %",93.5483870967742,93.5483870967742,0
+planned,"Physics_SSM mean width h",133.627911411779,133.627911411779,2.8421709430404e-14
+planned,"Physics_SSM MAE h",NaN,24.2404758507792,0
+planned,"Basis_hybrid row coverage %",93.5483870967742,93.5483870967742,0
+planned,"Basis_hybrid mean width h",133.627911411779,133.627911411779,2.8421709430404e-14
+planned,"Basis_hybrid MAE h",NaN,24.2404758507792,0
+planned,"Bayesian_PF row coverage %",93.5483870967742,93.5483870967742,0
+planned,"Bayesian_PF mean width h",133.839186249986,133.839186249986,8.5265128291212e-14
+planned,"Bayesian_PF MAE h",NaN,24.2424803601425,0
+probabilistic,"panel a unit = fatigue_load_exponent_021",NaN,NaN,3.69482222595252e-13
+probabilistic,"true RUL at 80 h",273.676108879603,273.676108879603,5.6843418860808e-14
+probabilistic,"true RUL at 160 h",193.676108879603,193.676108879603,2.8421709430404e-14
+probabilistic,"true RUL at 240 h",113.676108879603,113.676108879603,4.2632564145606e-14
+probabilistic,"true RUL at 320 h",33.676108879603,33.676108879603,3.5527136788005e-14
+probabilistic,"band lower, max over origins",171.050308473641,171.050308473641,2.55795384873636e-13
+probabilistic,"band upper, max over origins",305.962849037724,305.962849037724,2.8421709430404e-13
+probabilistic,"band width at 80 h",NaN,154.688133508228,0
+probabilistic,"band width at 160 h",NaN,124.479713896142,0
+probabilistic,"band width at 240 h",NaN,77.95613726024,0
+probabilistic,"band width at 320 h",NaN,82.9518360540177,0
+probabilistic,"PI_DSSDM row coverage %",90.3225806451613,90.3225806451613,0
+probabilistic,"PI_DSSDM mean width h",104.661840462502,104.661840462502,0
+probabilistic,"PI_DSSDM MAE h",NaN,18.6615154283683,0
+probabilistic,"Inverse_PINN row coverage %",90.3225806451613,90.3225806451613,0
+probabilistic,"Inverse_PINN mean width h",98.3541458136601,98.3541458136601,1.4210854715202e-14
+probabilistic,"Inverse_PINN MAE h",NaN,15.8788555467171,0
+probabilistic,"LSTM row coverage %",95.1612903225807,95.1612903225807,0
+probabilistic,"LSTM mean width h",127.644481161653,127.644481161653,4.2632564145606e-14
+probabilistic,"LSTM MAE h",NaN,20.5182747112661,0
+probabilistic,"Physics_SSM row coverage %",93.5483870967742,93.5483870967742,0
+probabilistic,"Physics_SSM mean width h",141.199590561291,141.199590561291,0
+probabilistic,"Physics_SSM MAE h",NaN,23.0785524351146,0
+probabilistic,"Basis_hybrid row coverage %",93.5483870967742,93.5483870967742,0
+probabilistic,"Basis_hybrid mean width h",141.199590561291,141.199590561291,0
+probabilistic,"Basis_hybrid MAE h",NaN,23.0785524351146,0
+probabilistic,"Bayesian_PF row coverage %",93.5483870967742,93.5483870967742,0
+probabilistic,"Bayesian_PF mean width h",142.70083900628,142.70083900628,0
+probabilistic,"Bayesian_PF MAE h",NaN,23.0649849254505,0

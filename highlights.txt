@@ -1,0 +1,6 @@
+Highlights:
+- Knowledge-informed state-space model for ball-screw remaining useful life.
+- Reversible nuisance state is integrated out exactly; damage stays monotone.
+- Bounded neural correction is used only when validation shows it helps.
+- Split-conformal intervals give 93% coverage across 30 synthetic fleets.
+- Gain over physics is concentrated under load-exponent misspecification.

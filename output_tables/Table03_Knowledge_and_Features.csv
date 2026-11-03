@@ -1,0 +1,11 @@
+Part,Element,Source,Model role
+Knowledge,Contact fatigue law,"ISO 3408-5 dynamic rating, Hertzian stress","Damage-rate backbone dD0/dt = c_u (F/F_ref)^p |omega| f_op"
+Knowledge,Wear irreversibility,"No spontaneous self-healing","Monotone damage, Gamma increments"
+Knowledge,Reversible nuisance,"Thermal expansion, grease warming","Ornstein-Uhlenbeck nuisance B(t), removed by GLS"
+Knowledge,Unit-to-unit frailty,"Manufacturing tolerances","log c_u = mu_C + eta_u, eta_u ~ N(0, sigma_C^2)"
+Knowledge,Bounded authority,"Epistemic limits of the learned term","tanh bound rho in [-b, b]"
+Knowledge,Model risk aversion,"Fallback to physics when not supported","Validation-weighted linear pool, w = 0 fallback"
+Features,Statistical (7),"OPC UA telemetry","Torque, current, speed and power dispersion and RMS"
+Features,Kinematic (6),"OPC UA telemetry","Mean voltage, current, torque, power, speed, position"
+Features,Digital twin (6),"Dynamic simulation","Twin speed, acceleration, friction, motor torque, current, voltage"
+Features,Residuals (4),"Hybrid reconstruction","External torque, estimated torque, error, innovation energy"
